@@ -4,6 +4,10 @@
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
+    transition: 0.3s;
+}
+.buy-now-button:hover {
+    background-image: linear-gradient(to right, #FF136F 0%, #FF589B 100%);
 }
 .price {
     color: #FF136F;
